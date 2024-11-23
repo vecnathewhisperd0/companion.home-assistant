@@ -1,10 +1,12 @@
+
+
 ---
 title: "Android Device Controls"
 id: 'android-device-controls'
 ---
 
 
-The ![Android](/assets/android.svg) Android app will automatically integrate with the [smart home device controls](https://developer.android.com/guide/topics/ui/device-control) feature on devices running Android 11 or newer that support it. All that is required is that you are able to login to the app and use it remotely.
+The ![Android](/assets/android.svg) Android app will automatically integrate with the [smart home device controls] (https://developer.android.com/guide/topics/ui/device-control) feature on devices running Android 11 or newer that support it. All that is required is that you are able to login to the app and use it remotely.
 
 To get started, open the device controls on your device. It will depend on the device manufacturer and Android version where you'll find them, some common places are: in the quick settings panel, in the notification drawer, or in the power menu. Tap on "Add Controls" and choose the Home Assistant app. All domains listed below will be available to get added to the device controls panel.
 
